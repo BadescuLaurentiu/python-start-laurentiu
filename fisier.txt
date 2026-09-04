@@ -1,0 +1,3 @@
+Salutare, lume!
+Acesta este un fisier text in care promit solemn ca voi invata Python.
+Sper sa fie cu noroc de data asta.
